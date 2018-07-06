@@ -1,1 +1,0 @@
-# GL-C-Embedded-BaseCamp
